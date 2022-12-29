@@ -1,0 +1,6 @@
+{ 
+  "special-diagramation" : {
+    "component" : "CustomGrid",
+    "composition" : "children"
+  }
+}
