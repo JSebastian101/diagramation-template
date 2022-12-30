@@ -29,17 +29,12 @@ Next I will explain how to have the Whats app Component in the store theme:
 ```
 
 | Props Name | Type   | Description                                                   | Default Value                                                                   |
-|------------|--------|---------------------------------------------------------------|---------------------------------------------------------------------------------|
-| "logo"     | String | Add the image you want to redirect the user.                  | "mi-logo.png"
-|
-| "phone"    | String | Add the phone number to which the user will communicate       | "123456789"
-|
-| "message"  | String | Add the message that the user will see when entering the chat | "Hola, bienvenido!"
-|
-| "width"    | Number | Add the width you want the image to be                        | 80 
-|
-| "height"   | Number | Add the height you want the image to be                       | 80
-|
+|------------|--------|---------------------------------------------------------------|--------------------|
+| "logo"     | String | Add the image you want to redirect the user.                  | "mi-logo.png"      |
+| "phone"    | String | Add the phone number to which the user will communicate       | "123456789"        |
+| "message"  | String | Add the message that the user will see when entering the chat | "Hola, bienvenido!"|
+| "width"    | Number | Add the width you want the image to be                        | 80                 |
+| "height"   | Number | Add the height you want the image to be                       | 80                 |
 
 
 ## Customization
