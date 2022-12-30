@@ -32,13 +32,13 @@ Next I will explain how to have the Whats app Component in the store theme:
 |------------|--------|---------------------------------------------------------------|---------------------------------------------------------------------------------|
 | "logo"     | String | Add the image you want to redirect the user.                  | "mi-logo.png"
 |
-| "phone"    | String | Add the phone number to which the user will communicate       | "123456789"                                                                   
+| "phone"    | String | Add the phone number to which the user will communicate       | "123456789"
 |
 | "message"  | String | Add the message that the user will see when entering the chat | "Hola, bienvenido!"
 |
-| "width"    | Number | Add the width you want the image to be                        | 80                                                                            
+| "width"    | Number | Add the width you want the image to be                        | 80 
 |
-| "height"   | Number | Add the height you want the image to be                       | 80                                                                            
+| "height"   | Number | Add the height you want the image to be                       | 80
 |
 
 
@@ -72,11 +72,3 @@ Check out some documentation models that are already live:
 - [Add To Cart Button](https://vtex.io/docs/components/content-blocks/vtex.add-to-cart-button@0.9.0/)
 - [Store Form](https://vtex.io/docs/components/all/vtex.store-form@0.3.4/)
 
----- 
-
-Check out some documentation models that are already live: 
-- [Breadcrumb](https://github.com/vtex-apps/breadcrumb)
-- [Image](https://vtex.io/docs/components/general/vtex.store-components/image)
-- [Condition Layout](https://vtex.io/docs/components/all/vtex.condition-layout@1.1.6/)
-- [Add To Cart Button](https://vtex.io/docs/components/content-blocks/vtex.add-to-cart-button@0.9.0/)
-- [Store Form](https://vtex.io/docs/components/all/vtex.store-form@0.3.4/)
